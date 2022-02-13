@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b521ee75.chunk.css",
+    "main.js": "/static/js/main.95f47254.chunk.js",
+    "main.js.map": "/static/js/main.95f47254.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.dbcd909a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.dbcd909a.js.map",
+    "static/css/2.6ef2fac9.chunk.css": "/static/css/2.6ef2fac9.chunk.css",
+    "static/js/2.6fbdafbd.chunk.js": "/static/js/2.6fbdafbd.chunk.js",
+    "static/js/2.6fbdafbd.chunk.js.map": "/static/js/2.6fbdafbd.chunk.js.map",
+    "static/js/3.959d0df7.chunk.js": "/static/js/3.959d0df7.chunk.js",
+    "static/js/3.959d0df7.chunk.js.map": "/static/js/3.959d0df7.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.6ef2fac9.chunk.css.map": "/static/css/2.6ef2fac9.chunk.css.map",
+    "static/css/main.b521ee75.chunk.css.map": "/static/css/main.b521ee75.chunk.css.map",
+    "static/js/2.6fbdafbd.chunk.js.LICENSE.txt": "/static/js/2.6fbdafbd.chunk.js.LICENSE.txt",
+    "static/media/aws.7c551f2a.png": "/static/media/aws.7c551f2a.png",
+    "static/media/bs.39133939.png": "/static/media/bs.39133939.png",
+    "static/media/django.9ebe1ce6.png": "/static/media/django.9ebe1ce6.png",
+    "static/media/drf.20544bd0.png": "/static/media/drf.20544bd0.png",
+    "static/media/email.5866460e.png": "/static/media/email.5866460e.png",
+    "static/media/git.c6def746.png": "/static/media/git.c6def746.png",
+    "static/media/github.d3263084.png": "/static/media/github.d3263084.png",
+    "static/media/hackerrank.fcb9d4b6.png": "/static/media/hackerrank.fcb9d4b6.png",
+    "static/media/index.scss": "/static/media/ionicons.e9f4c425.ttf",
+    "static/media/js.e35fa00e.png": "/static/media/js.e35fa00e.png",
+    "static/media/location.4ba2450b.png": "/static/media/location.4ba2450b.png",
+    "static/media/phone.8f0be3fb.png": "/static/media/phone.8f0be3fb.png",
+    "static/media/postman.e5c55306.png": "/static/media/postman.e5c55306.png",
+    "static/media/python.424885c8.jpg": "/static/media/python.424885c8.jpg",
+    "static/media/react.ef20e673.png": "/static/media/react.ef20e673.png",
+    "static/media/stopstalk.151f880e.png": "/static/media/stopstalk.151f880e.png",
+    "static/media/toph.dda8fed7.png": "/static/media/toph.dda8fed7.png",
+    "static/media/whatsapp.1dd8ca27.png": "/static/media/whatsapp.1dd8ca27.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dbcd909a.js",
+    "static/css/2.6ef2fac9.chunk.css",
+    "static/js/2.6fbdafbd.chunk.js",
+    "static/css/main.b521ee75.chunk.css",
+    "static/js/main.95f47254.chunk.js"
+  ]
+}
